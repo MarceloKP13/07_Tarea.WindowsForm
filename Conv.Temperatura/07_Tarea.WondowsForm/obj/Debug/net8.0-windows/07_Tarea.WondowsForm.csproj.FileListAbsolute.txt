@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\07_Tarea.WondowsForm2\07_Tarea.WondowsForm\bin\Debug\net8.0-windows\07_Tarea.WondowsForm.exe
+C:\Users\user\source\repos\07_Tarea.WondowsForm2\07_Tarea.WondowsForm\bin\Debug\net8.0-windows\07_Tarea.WondowsForm.deps.json
+C:\Users\user\source\repos\07_Tarea.WondowsForm2\07_Tarea.WondowsForm\bin\Debug\net8.0-windows\07_Tarea.WondowsForm.runtimeconfig.json
+C:\Users\user\source\repos\07_Tarea.WondowsForm2\07_Tarea.WondowsForm\bin\Debug\net8.0-windows\07_Tarea.WondowsForm.dll
+C:\Users\user\source\repos\07_Tarea.WondowsForm2\07_Tarea.WondowsForm\bin\Debug\net8.0-windows\07_Tarea.WondowsForm.pdb
+C:\Users\user\source\repos\07_Tarea.WondowsForm2\07_Tarea.WondowsForm\obj\Debug\net8.0-windows\_07_Tarea.WondowsForm.Form1.resources
+C:\Users\user\source\repos\07_Tarea.WondowsForm2\07_Tarea.WondowsForm\obj\Debug\net8.0-windows\07_Tarea.WondowsForm.csproj.GenerateResource.cache
+C:\Users\user\source\repos\07_Tarea.WondowsForm2\07_Tarea.WondowsForm\obj\Debug\net8.0-windows\07_Tarea.WondowsForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\07_Tarea.WondowsForm2\07_Tarea.WondowsForm\obj\Debug\net8.0-windows\07_Tarea.WondowsForm.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\07_Tarea.WondowsForm2\07_Tarea.WondowsForm\obj\Debug\net8.0-windows\07_Tarea.WondowsForm.AssemblyInfo.cs
+C:\Users\user\source\repos\07_Tarea.WondowsForm2\07_Tarea.WondowsForm\obj\Debug\net8.0-windows\07_Tarea.WondowsForm.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\07_Tarea.WondowsForm2\07_Tarea.WondowsForm\obj\Debug\net8.0-windows\07_Tarea.WondowsForm.dll
+C:\Users\user\source\repos\07_Tarea.WondowsForm2\07_Tarea.WondowsForm\obj\Debug\net8.0-windows\refint\07_Tarea.WondowsForm.dll
+C:\Users\user\source\repos\07_Tarea.WondowsForm2\07_Tarea.WondowsForm\obj\Debug\net8.0-windows\07_Tarea.WondowsForm.pdb
+C:\Users\user\source\repos\07_Tarea.WondowsForm2\07_Tarea.WondowsForm\obj\Debug\net8.0-windows\07_Tarea.WondowsForm.genruntimeconfig.cache
+C:\Users\user\source\repos\07_Tarea.WondowsForm2\07_Tarea.WondowsForm\obj\Debug\net8.0-windows\ref\07_Tarea.WondowsForm.dll

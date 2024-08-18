@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Tablero Ajedrez\Tablero Ajedrez\bin\Debug\net8.0-windows\Tablero Ajedrez.exe
+C:\Users\user\source\repos\Tablero Ajedrez\Tablero Ajedrez\bin\Debug\net8.0-windows\Tablero Ajedrez.deps.json
+C:\Users\user\source\repos\Tablero Ajedrez\Tablero Ajedrez\bin\Debug\net8.0-windows\Tablero Ajedrez.runtimeconfig.json
+C:\Users\user\source\repos\Tablero Ajedrez\Tablero Ajedrez\bin\Debug\net8.0-windows\Tablero Ajedrez.dll
+C:\Users\user\source\repos\Tablero Ajedrez\Tablero Ajedrez\bin\Debug\net8.0-windows\Tablero Ajedrez.pdb
+C:\Users\user\source\repos\Tablero Ajedrez\Tablero Ajedrez\obj\Debug\net8.0-windows\Tablero_Ajedrez.Form1.resources
+C:\Users\user\source\repos\Tablero Ajedrez\Tablero Ajedrez\obj\Debug\net8.0-windows\Tablero Ajedrez.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Tablero Ajedrez\Tablero Ajedrez\obj\Debug\net8.0-windows\Tablero Ajedrez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Tablero Ajedrez\Tablero Ajedrez\obj\Debug\net8.0-windows\Tablero Ajedrez.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Tablero Ajedrez\Tablero Ajedrez\obj\Debug\net8.0-windows\Tablero Ajedrez.AssemblyInfo.cs
+C:\Users\user\source\repos\Tablero Ajedrez\Tablero Ajedrez\obj\Debug\net8.0-windows\Tablero Ajedrez.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Tablero Ajedrez\Tablero Ajedrez\obj\Debug\net8.0-windows\Tablero Ajedrez.dll
+C:\Users\user\source\repos\Tablero Ajedrez\Tablero Ajedrez\obj\Debug\net8.0-windows\refint\Tablero Ajedrez.dll
+C:\Users\user\source\repos\Tablero Ajedrez\Tablero Ajedrez\obj\Debug\net8.0-windows\Tablero Ajedrez.pdb
+C:\Users\user\source\repos\Tablero Ajedrez\Tablero Ajedrez\obj\Debug\net8.0-windows\Tablero Ajedrez.genruntimeconfig.cache
+C:\Users\user\source\repos\Tablero Ajedrez\Tablero Ajedrez\obj\Debug\net8.0-windows\ref\Tablero Ajedrez.dll
